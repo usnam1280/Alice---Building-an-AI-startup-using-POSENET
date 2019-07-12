@@ -53,7 +53,7 @@ class _ThirdRoute extends State {
 
       case posenet:
         res = await Tflite.loadModel(
-            model: "assets/posenet_mv1_075_float_from_checkpoints.tflite");
+             model: "assets/multi_person_mobilenet_v1_075_float.tflite");
         break;
 
       case yoganet:
