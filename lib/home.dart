@@ -38,12 +38,7 @@ class _ThirdRoute extends State {
   loadModel() async {
     String res;
     switch (_model) {
-      case yolo:
-        res = await Tflite.loadModel(
-          model: "assets/yolov2_tiny.tflite",
-          labels: "assets/yolov2_tiny.txt",
-        );
-        break;
+      
 
       case mobilenet:
         res = await Tflite.loadModel(
