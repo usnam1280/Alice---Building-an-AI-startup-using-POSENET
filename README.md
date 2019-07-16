@@ -1,6 +1,12 @@
 ## Overview
 
+[![AUR license](https://img.shields.io/aur/license/pac.svg)](https://github.com/soumyadip1995/Alice---Building-an-AI-startup-using-POSENET/blob/master/LICENSE)
+[![Made with flutter](https://img.shields.io/badge/Made%20with-flutter-blue.svg)](https://flutter.dev/docs/get-started/install)
+
+![alt_text](https://miro.medium.com/max/1016/1*2Uw46_A3mLOp21eLruhQuA.png)
+
 In this Repository, We look at how one can build  an automated workout instructor. I have built a workout start up called Alice using flutter and the POSENET model as its base functionality that charges 10 US dollars and can be used by you to build a profitable start up.
+- Read my [Blog post](https://soumyadip1995.blogspot.com/2019/07/alice-building-ai-start-up-using.html) to know more about how to build the app and the theory behind the scenes.
 
 ## Credits
 
@@ -34,4 +40,4 @@ flutter run
 Alternatively you can open the app as a new flutter project in Android Studio after installing the Flutter plugin. 
 
 ## Demo
-![alt_text](ttps://github.com/soumyadip1995/Alice---Building-an-AI-startup-using-POSENET/blob/master/figures/Screenshot%20(225).png)
+![alt_text](https://github.com/soumyadip1995/Alice---Building-an-AI-startup-using-POSENET/blob/master/figures/Screenshot%20(225).png)
