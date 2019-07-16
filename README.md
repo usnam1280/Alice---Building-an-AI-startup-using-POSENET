@@ -34,3 +34,4 @@ flutter run
 Alternatively you can open the app as a new flutter project in Android Studio after installing the Flutter plugin. 
 
 ## Demo
+![alt_text](ttps://github.com/soumyadip1995/Alice---Building-an-AI-startup-using-POSENET/blob/master/figures/Screenshot%20(225).png)
