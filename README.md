@@ -43,7 +43,7 @@ Alternatively you can open the app as a new flutter project in Android Studio af
 ## Demo
 ![alt_text](https://github.com/soumyadip1995/Alice---Building-an-AI-startup-using-POSENET/blob/master/figures/Screenshot%20(225).png)
 
-**Note:- This is no way fully complete. This is done, just to show you an idea of how you can get started with flutter and integrate various open source services and ML models with it.
+**Note:- This is no way fully complete. This is done, just to show you an idea of how you can get started with flutter and integrate  ML models and create a valuable service with it.**
 
 ## How to Improve the app
 
