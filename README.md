@@ -42,3 +42,17 @@ Alternatively you can open the app as a new flutter project in Android Studio af
 
 ## Demo
 ![alt_text](https://github.com/soumyadip1995/Alice---Building-an-AI-startup-using-POSENET/blob/master/figures/Screenshot%20(225).png)
+
+**Note:- This is no way fully complete. This is done, just to show you an idea of how you can get started with flutter and integrate various open source services and ML models with it.
+
+## How to Improve the app
+
+- Generative Model for 3D Yoga Pose Generation (Adversarial Network)
+
+- More interactive dialogue (Dialogflow)
+
+- More personalization & poses (add more poses, personalize them using recommender system/matrix factorization)
+
+- Other features for well-being (meditation, diet, other forms of exercise)
+
+- More analytics (blood pressure, posture, etc.)
