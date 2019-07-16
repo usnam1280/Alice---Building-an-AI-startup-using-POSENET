@@ -5,7 +5,7 @@
 
 ![alt_text](https://miro.medium.com/max/1016/1*2Uw46_A3mLOp21eLruhQuA.png)
 
-In this Repository, We look at how one can build  an automated workout instructor. I have built a workout start up called Alice using flutter and the POSENET model as its base functionality that charges 10 US dollars and can be used by you to build a profitable start up. I I have used posenet model on top of Siraj Raval's Code. Download the tensorflow posenet model as a tflite file from [here](https://www.tensorflow.org/lite/models/pose_estimation/overview). It has also been included in the assets as well.
+In this Repository, We look at how one can build  an automated workout instructor. I have built a workout start up called Alice using flutter and the POSENET model as its base functionality that charges 10 US dollars and can be used by you to build a profitable start up. I I have used posenet model on top of Siraj Raval's Code. Download the tensorflow posenet model as a tflite file from [here](https://www.tensorflow.org/lite/models/pose_estimation/overview). It has also been included in the assets as well(Multi-person tflite file).
 
 - Read my [Blog post](https://soumyadip1995.blogspot.com/2019/07/alice-building-ai-start-up-using.html) to know more about how to build the app and the theory behind the scenes.
 
